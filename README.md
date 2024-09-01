@@ -82,7 +82,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Contact
 
-For any inquiries or feedback, please reach out at [your_email@example.com](mailto:your_email@example.com) or create an issue on the repository.
+For any inquiries or feedback, please reach out at [your_email@example.com](mailto:adarshsingh254001@gmail.com) or create an issue on the repository.
 
 ---
 
